@@ -1,0 +1,17 @@
+{
+    "name": "pangolin-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kevin Burke"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pangolin-bower.git"
+    },
+    "description": "Pangolin font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
